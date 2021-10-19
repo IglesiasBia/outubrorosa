@@ -1,3 +1,9 @@
 img{
+    width: 50px;
+    height: 50px;
     size: 70px;
+}
+
+h1{
+    color: pink;
 }
