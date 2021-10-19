@@ -1,0 +1,26 @@
+header{
+    background-image: url("img/laco.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 900px;
+    height: 100%;
+
+
+}
+
+.container{
+
+
+}
+
+img{
+    width: 120px;
+    height: 120px;
+    size: 70px;
+
+}
+
+h2{
+    color: pink;
+    text-align: center;
+}
