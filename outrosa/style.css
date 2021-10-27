@@ -1,11 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 
 
+body{
+    background-color: palevioletred;
+}
+
+.navegador{
+    width: 80%;
+    margin: auto;
+    padding: 0.4em;
+}
 #pag{
     width: 80%;
     margin: auto;
     background-color: floralwhite;
-    
 }
 
 
@@ -16,8 +24,6 @@ header{
     height: 18em;
     padding: 3em;
     text-align: right;
-
-
 }
 
 h1{
@@ -29,14 +35,12 @@ h1{
 
 .container{
     padding: 1em;
-
 }
 
 img{
     width: 120px;
     height: 120px;
     size: 70px;
-
 }
 
 h2{
@@ -49,12 +53,18 @@ h2{
     padding: 2em;
     background-color: pink;
     color: floralwhite;
-    
-}
+    }
 .cadastro{
     color: floralwhite;
 }
 
 .botao{
     background-color: rgb(133, 131, 131);
+}
+
+footer{
+    background-color: floralwhite;
+    width: auto;
+    padding: 1em;
+    text-align: center;
 }
